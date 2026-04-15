@@ -1,6 +1,6 @@
 # ExamenP1_cpp_GrupoB
-Nombre:Hugo Andrade
- Katherine Pomaquero
+Nombre:Hugo Andrade,
+ Katherine Pomaquero,
  Juan Bedoya
 Grupo:B
 Caso:Primero SW
