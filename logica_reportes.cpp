@@ -4,7 +4,7 @@
 #include <stdexcept>  
 using namespace std;
 
-//ordenar viajes por rendimento (metodo burbuja)
+//ordenar viajes rendimento (metodo burbuja)
 void ordenarViajesPorRendimiento(vector<Viaje> &viajes) {
     int n = viajes.size();
     for (int i = 0; i < n - 1; i++) {
